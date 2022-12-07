@@ -2,7 +2,7 @@
 <!-- Description -->
 A Front-end developer from Iran.
 <br>
-Master of physical chemistry
+Bachelor of pure chemistry
 <!-- End of description -->
 
 <!-- Hello world animation -->
